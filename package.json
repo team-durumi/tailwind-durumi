@@ -1,0 +1,14 @@
+{
+	"name": "tailwind-durumi",
+	"version": "0.1.0",
+	"license": "MIT",
+	"dependencies": {},
+	"devDependencies": {
+		"@tailwindcss/typography": "^0",
+		"autoprefixer": "^10",
+		"postcss": "^8",
+		"postcss-cli": "^8",
+		"postcss-purgecss": "^2",
+		"tailwindcss": "^2"
+	}
+}
